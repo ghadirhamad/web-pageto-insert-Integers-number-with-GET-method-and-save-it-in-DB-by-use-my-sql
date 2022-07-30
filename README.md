@@ -5,7 +5,7 @@ https://www.apachefriends.org/download.html
 After setup you should click on start Apache and MySql
 ![Xampp](https://user-images.githubusercontent.com/108132445/181941150-4e4eb025-e944-491e-844e-6b7b77ae3dac.PNG)
 
-Then you wil save your project in C:\xampp\htdocs in this path
+Then you wil save your project in this path C:\xampp\htdocs 
 To open you HTML page you should go to browser then write:
 http://localhost/index.html
 ## In index.html file I put input tag to insert the integer value of sensor and submit it
