@@ -1,6 +1,6 @@
 # web-page-to-insert-Integers-number-with-GET-method-and-save-it-in-DB-by-use-my-sql
 In this project I used HTML and PHP code to done this task 
-## First to hanle with PHP you must Download Xampp server from this link:
+## First to handle with PHP you must Download Xampp server from this link:
 https://www.apachefriends.org/download.html
 After setup you should click on start Apache and MySql
 ![Xampp](https://user-images.githubusercontent.com/108132445/181941150-4e4eb025-e944-491e-844e-6b7b77ae3dac.PNG)
